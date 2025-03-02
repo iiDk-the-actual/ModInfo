@@ -61,3 +61,4 @@ Trumpet Fanfare;https://github.com/iiDk-the-actual/ModInfo/raw/main/trumpetfanfa
 Clown Music;https://github.com/iiDk-the-actual/ModInfo/raw/main/Circus%20-%20Theme%20Song.mp3
 Bumblebee;https://github.com/iiDk-the-actual/ModInfo/raw/main/bunblebee.mp3
 Alone at the Edge of a Universe;https://github.com/iiDk-the-actual/ModInfo/raw/main/alone%20at%20the%20edge%20of%20a%20universe.mp3
+McDonald's in the Pentagon;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/McDonald's%20in%20the%20Pentagon.mp3
