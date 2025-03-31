@@ -6,4 +6,4 @@ UnityTempFile;;UnityTempFile;;3;;8
 NonexistentSampleDetectedMod1;;NonexistentSampleDetectedMod2
 317F0850CFF927CE;2B68691E1ED8F1E2;4453C9337C152C28;EB27D2BB0F03F7EA
 ACD44218D0B032C6;DF8E310694E278E7
-room host force changed
+inappropriate tag data being sent creating multiple vrrigs
