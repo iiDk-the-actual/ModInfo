@@ -1,11 +1,15 @@
 ii's Stupid Menu PC Controls
 Q :: Open Menu
 \ :: Toggle GUI
-E (keyboard) :: A (VR controller)
-R (keyboard) :: B (VR controller)
-F (keyboard) :: X (VR controller)
-G (keyboard) :: Y (VR controller)
+E :: A (VR controller)
+R :: B (VR controller)
+F :: X (VR controller)
+G :: Y (VR controller)
 [ :: Left Grip
 ] :: Right Grip
 - :: Left Trigger
 + :: Right Trigger
+Arrow Keys :: Left Joystick
+Left Alt + Arrow Keys :: Right Joystick
+End :: Left Joystick Click
+Left Alt + End :: Right Joystick Click
