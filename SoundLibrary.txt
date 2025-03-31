@@ -62,3 +62,8 @@ Clown Music;https://github.com/iiDk-the-actual/ModInfo/raw/main/Circus%20-%20The
 Bumblebee;https://github.com/iiDk-the-actual/ModInfo/raw/main/bunblebee.mp3
 Alone at the Edge of a Universe;https://github.com/iiDk-the-actual/ModInfo/raw/main/alone%20at%20the%20edge%20of%20a%20universe.mp3
 McDonald's in the Pentagon;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/McDonald's%20in%20the%20Pentagon.mp3
+HYUNDAI;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/HYUNDAI.mp3
+phonon - polyriddim;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/phonon%20-%20polyriddim.mp3
+Even Flow;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Even%20Flow.mp3
+Scott Joplin - Maple Leaf Rag;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Scott%20Joplin%20-%20Maple%20Leaf%20Rag.mp3
+Ice Flow;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/McDonald's%20in%20the%20Pentagon.mp3
