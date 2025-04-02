@@ -4,6 +4,6 @@ You are using build {0}. This menu was created by iiDk (@goldentrophy) on Discor
 https://discord.gg/iidk
 UnityTempFile;;UnityTempFile;;3;;8
 NonexistentSampleDetectedMod1;;NonexistentSampleDetectedMod2
-EB27D2BB0F03F7EA;638789873678878967
+EB27D2BB0F03F7EA;638789873678878967,X;17436194818116260
 ACD44218D0B032C6;DF8E310694E278E7;1D371C92524A71A
 room host force changed
