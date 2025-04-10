@@ -73,3 +73,13 @@ I am Steve;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds
 CECIL;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/CECIL.mp3
 Where Is Omniman;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Where%20is%20Omniman.mp3
 The Nether;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/The%20Nether.mp3
+ARE WE STILL FRIENDS;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/ARE%20WE%20STILL%20FRIENDS.mp3
+Day N Nite;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Day%20N%20Nite.mp3
+EARFQUAKE;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/EARFQUAKE.mp3
+Fweh;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Fweh.mp3
+I THINK;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/I%20THINK.mp3
+IGOR'S THEME;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/IGOR%27S%20THEME.mp3
+Let Me Know;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Let%20Me%20Know.mp3
+NEW MAGIC WAND;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/NEW%20MAGIC%20WAND.mp3
+PUPPET;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/PUPPET.mp3
+Steve's Lava Chicken;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Steve%27s%20Lava%20Chicken.mp3
