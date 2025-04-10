@@ -1,69 +1,75 @@
-Prowler;https://github.com/iiDk-the-actual/ModInfo/raw/main/prowler.mp3
-Ring Doorbell;https://github.com/iiDk-the-actual/ModInfo/raw/main/ring%20doorbell.mp3
-Ascension;https://github.com/iiDk-the-actual/ModInfo/raw/main/ascending.mp3
-Cartoon Tip Toeing;https://github.com/iiDk-the-actual/ModInfo/raw/main/cartoon%20tip%20toe.mp3
-Screaming Cat;https://github.com/iiDk-the-actual/ModInfo/raw/main/cat%20jumpscare.mp3
-FNAF Ambience;https://github.com/iiDk-the-actual/ModInfo/raw/main/fnaf%20ambience.mp3
-Lego Break;https://github.com/iiDk-the-actual/ModInfo/raw/main/lego.mp3
-Metal Pipe;https://github.com/iiDk-the-actual/ModInfo/raw/main/metal%20pipe.mp3
-Microwave;https://github.com/iiDk-the-actual/ModInfo/raw/main/microwave.mp3
-Bone Crack;https://github.com/iiDk-the-actual/ModInfo/raw/main/bone-crack%20(2).mp3
-Taco Bell Bong;https://github.com/iiDk-the-actual/ModInfo/raw/main/taco-bell.mp3
-Tom Holland;https://github.com/iiDk-the-actual/ModInfo/raw/main/tomhollandmanwtf.mp3
-Daisy Bell;https://github.com/iiDk-the-actual/ModInfo/raw/main/Daisybell.mp3
-Distressed Singing;https://github.com/iiDk-the-actual/ModInfo/raw/main/e%20um%20o%20um%20appi.mp3
-We Do Not Care;https://github.com/iiDk-the-actual/ModInfo/raw/main/we%20do%20not%20care.mp3
-Hehehehe;https://github.com/iiDk-the-actual/ModInfo/raw/main/pvz%20ahh%20laugh.mp3
-Laughing Frog;https://github.com/iiDk-the-actual/ModInfo/raw/main/atumalaka%20slowed.mp3
-Slap;https://github.com/iiDk-the-actual/ModInfo/raw/main/slap-made-with-Voicemod.mp3
-TF2 Pan;https://github.com/iiDk-the-actual/ModInfo/raw/main/tf2-pan-made-with-Voicemod.mp3
-Vine Boom;https://github.com/iiDk-the-actual/ModInfo/raw/main/vineboom-made-with-Voicemod.mp3
-Yippee;https://github.com/iiDk-the-actual/ModInfo/raw/main/yippee-made-with-Voicemod.mp3
-Gunshot;https://github.com/iiDk-the-actual/ModInfo/raw/main/gunshot-sound-effect-single-shot-made-with-Voicemod.mp3
-Rizz;https://github.com/iiDk-the-actual/ModInfo/raw/main/RIZZ%20Sound%20Effect.mp3
-Holy Moly;https://github.com/iiDk-the-actual/ModInfo/raw/main/holy-moly-made-with-Voicemod.mp3
-Get Out;https://github.com/iiDk-the-actual/ModInfo/raw/main/get-out-made-with-Voicemod.mp3
-Garry's Mod Death;https://github.com/iiDk-the-actual/ModInfo/raw/main/garry's-mod-death-sound-made-with-Voicemod.mp3
-Hi;https://github.com/iiDk-the-actual/ModInfo/raw/main/hi.mp3
-Bye;https://github.com/iiDk-the-actual/ModInfo/raw/main/bye.mp3
-Aztec Death Whistle;https://github.com/iiDk-the-actual/ModInfo/raw/main/death-whistle-57.mp3
-It's Just a Burning Memory;https://github.com/iiDk-the-actual/ModInfo/raw/main/its%20just%20a%20burning%20memory.mp3
-Amarillo;https://github.com/iiDk-the-actual/ModInfo/raw/main/Amarillo.mp3
-Brain Fart;https://github.com/iiDk-the-actual/ModInfo/raw/main/brain%20fard.mp3
-Cave Wave;https://github.com/iiDk-the-actual/ModInfo/raw/main/cavewave.mp3
-Correct;https://github.com/iiDk-the-actual/ModInfo/raw/main/correct.mp3
-Don Pollo;https://github.com/iiDk-the-actual/ModInfo/raw/main/don%20pollo.mp3
-Libet's Delay;https://github.com/iiDk-the-actual/ModInfo/raw/main/libets%20delay.mp3
-Luigi talks about Sea Shells;https://github.com/iiDk-the-actual/ModInfo/raw/main/luigi%20talks%20about%20sea%20shells.mp3
-Napoleon's Song;https://github.com/iiDk-the-actual/ModInfo/raw/main/napoleons%20song.mp3
-Portal Radio;https://github.com/iiDk-the-actual/ModInfo/raw/main/portal%20radio.mp3
-THX Intro;https://github.com/iiDk-the-actual/ModInfo/raw/main/thx.mp3
-Virtual Insanity Chorus;https://github.com/iiDk-the-actual/ModInfo/raw/main/virtual%20insanity.mp3
-Incorrect;https://github.com/iiDk-the-actual/ModInfo/raw/main/wrong.mp3
-You, Me, Gas Station;https://github.com/iiDk-the-actual/ModInfo/raw/main/you%20me%20gas%20station.mp3
-Caramelldansen;https://github.com/iiDk-the-actual/ModInfo/raw/main/caramelldansen.mp3
-Computer;https://github.com/iiDk-the-actual/ModInfo/raw/main/computer.mp3
-Brainrot Scream;https://github.com/iiDk-the-actual/ModInfo/raw/main/aaaaaaaaaaaaaaaaah.mp3
-Why So Serious;https://github.com/iiDk-the-actual/ModInfo/raw/main/why%20so%20serious.mp3
-Collard Greens;https://github.com/iiDk-the-actual/ModInfo/raw/main/cgreen.mp3
-Helicopter;https://github.com/iiDk-the-actual/ModInfo/raw/main/helicopter.mp3
-Feel Good Inc.;https://github.com/iiDk-the-actual/ModInfo/raw/main/fginc.mp3
-FE!N;https://github.com/iiDk-the-actual/ModInfo/raw/main/FEIN.mp3
-Not Like Us;https://github.com/iiDk-the-actual/ModInfo/raw/main/Not%20Like%20Us.mp3
-I'm Spongebob;https://github.com/iiDk-the-actual/ModInfo/raw/main/imspongebob.mp3
-Bruh;https://github.com/iiDk-the-actual/ModInfo/raw/main/bruh.mp3
-Bonk;https://github.com/iiDk-the-actual/ModInfo/raw/main/bonk.mp3
-Run Rabbit Run;https://github.com/iiDk-the-actual/ModInfo/raw/main/runrabbitrun.mp3
-Tip Toe thru the Tulips;https://github.com/iiDk-the-actual/ModInfo/raw/main/tiptoe.mp3
-Warning Bot;https://github.com/iiDk-the-actual/ModInfo/raw/main/warningbot.wav
-PBBV;https://github.com/iiDk-the-actual/ModInfo/raw/main/pbbv.mp3
-Trumpet Fanfare;https://github.com/iiDk-the-actual/ModInfo/raw/main/trumpetfanfare.wav
-Clown Music;https://github.com/iiDk-the-actual/ModInfo/raw/main/Circus%20-%20Theme%20Song.mp3
-Bumblebee;https://github.com/iiDk-the-actual/ModInfo/raw/main/bunblebee.mp3
-Alone at the Edge of a Universe;https://github.com/iiDk-the-actual/ModInfo/raw/main/alone%20at%20the%20edge%20of%20a%20universe.mp3
-McDonald's in the Pentagon;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/McDonald's%20in%20the%20Pentagon.mp3
-HYUNDAI;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/HYUNDAI.mp3
-phonon - polyriddim;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/phonon%20-%20polyriddim.mp3
-Even Flow;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Even%20Flow.mp3
-Scott Joplin - Maple Leaf Rag;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Scott%20Joplin%20-%20Maple%20Leaf%20Rag.mp3
-Ice Flow;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/McDonald's%20in%20the%20Pentagon.mp3
+Prowler;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/prowler.mp3
+Ring Doorbell;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/ring%20doorbell.mp3
+Ascension;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/ascending.mp3
+Cartoon Tip Toeing;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/cartoon%20tip%20toe.mp3
+Screaming Cat;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/cat%20jumpscare.mp3
+FNAF Ambience;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/fnaf%20ambience.mp3
+Lego Break;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/lego.mp3
+Metal Pipe;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/metal%20pipe.mp3
+Microwave;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/microwave.mp3
+Bone Crack;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/bone-crack%20(2).mp3
+Taco Bell Bong;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/taco-bell.mp3
+Tom Holland;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/tomhollandmanwtf.mp3
+Daisy Bell;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/Daisybell.mp3
+Distressed Singing;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/e%20um%20o%20um%20appi.mp3
+We Do Not Care;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/we%20do%20not%20care.mp3
+Hehehehe;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/pvz%20ahh%20laugh.mp3
+Laughing Frog;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/atumalaka%20slowed.mp3
+Slap;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/slap-made-with-Voicemod.mp3
+TF2 Pan;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/tf2-pan-made-with-Voicemod.mp3
+Vine Boom;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/vineboom-made-with-Voicemod.mp3
+Yippee;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/yippee-made-with-Voicemod.mp3
+Gunshot;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/gunshot-sound-effect-single-shot-made-with-Voicemod.mp3
+Rizz;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/RIZZ%20Sound%20Effect.mp3
+Holy Moly;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/holy-moly-made-with-Voicemod.mp3
+Get Out;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/get-out-made-with-Voicemod.mp3
+Garry's Mod Death;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/garry's-mod-death-sound-made-with-Voicemod.mp3
+Hi;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/hi.mp3
+Bye;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/bye.mp3
+Aztec Death Whistle;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/death-whistle-57.mp3
+It's Just a Burning Memory;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/its%20just%20a%20burning%20memory.mp3
+Amarillo;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/Amarillo.mp3
+Brain Fart;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/brain%20fard.mp3
+Cave Wave;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/cavewave.mp3
+Correct;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/correct.mp3
+Don Pollo;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/don%20pollo.mp3
+Libet's Delay;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/libets%20delay.mp3
+Luigi talks about Sea Shells;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/luigi%20talks%20about%20sea%20shells.mp3
+Napoleon's Song;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/napoleons%20song.mp3
+Portal Radio;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/portal%20radio.mp3
+THX Intro;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/thx.mp3
+Virtual Insanity Chorus;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/virtual%20insanity.mp3
+Incorrect;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/wrong.mp3
+You, Me, Gas Station;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/you%20me%20gas%20station.mp3
+Caramelldansen;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/caramelldansen.mp3
+Computer;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/computer.mp3
+Brainrot Scream;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/aaaaaaaaaaaaaaaaah.mp3
+Why So Serious;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/why%20so%20serious.mp3
+Collard Greens;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/cgreen.mp3
+Helicopter;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/helicopter.mp3
+Feel Good Inc.;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/fginc.mp3
+FE!N;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/FEIN.mp3
+Not Like Us;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/Not%20Like%20Us.mp3
+I'm Spongebob;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/imspongebob.mp3
+Bruh;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/bruh.mp3
+Bonk;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/bonk.mp3
+Run Rabbit Run;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/runrabbitrun.mp3
+Tip Toe thru the Tulips;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/tiptoe.mp3
+Warning Bot;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/warningbot.wav
+PBBV;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/pbbv.mp3
+Trumpet Fanfare;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/trumpetfanfare.wav
+Clown Music;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/Circus%20-%20Theme%20Song.mp3
+Bumblebee;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/bunblebee.mp3
+Alone at the Edge of a Universe;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/alone%20at%20the%20edge%20of%20a%20universe.mp3
+McDonald's in the Pentagon;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/McDonald's%20in%20the%20Pentagon.mp3
+HYUNDAI;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/HYUNDAI.mp3
+phonon - polyriddim;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/phonon%20-%20polyriddim.mp3
+Even Flow;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Even%20Flow.mp3
+Scott Joplin - Maple Leaf Rag;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Scott%20Joplin%20-%20Maple%20Leaf%20Rag.mp3
+Ice Flow;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Ice%20Flow.mp3
+Flint and Steel Song;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Flint%20and%20Steel%20Song.mp3
+Gay;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Gay.mp3
+I am Steve;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/I%20am%20Steve.mp3
+CECIL;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/CECIL.mp3
+Where Is Omniman;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Where%20is%20Omniman.mp3
+The Nether;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/The%20Nether.mp3
