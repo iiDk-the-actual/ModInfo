@@ -92,3 +92,11 @@ St. Chroma;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds
 Sticky;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Sticky.mp3
 Take Your Mask Off;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Take%20Your%20Mask%20Off.mp3
 Thought I Was Dead;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Thought%20I%20Was%20Dead.mp3
+gloria;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/gloria.mp3
+hey now;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/heynow.mp3
+luther;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/luther.mp3
+peekaboo;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/peekaboo.mp3
+reincarnated;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/reincarnated.mp3
+squabble up;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/squabbleup.mp3
+tv off;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/tvoff.mp3
+wacced out murals;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/waccedoutmurals.mp3
