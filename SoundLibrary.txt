@@ -83,3 +83,12 @@ Let Me Know;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sound
 NEW MAGIC WAND;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/NEW%20MAGIC%20WAND.mp3
 PUPPET;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/PUPPET.mp3
 Steve's Lava Chicken;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Steve%27s%20Lava%20Chicken.mp3
+Smack That;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Smack%20That.mp3
+Balloon;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Balloon.mp3
+Darling, I;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Darling%2C%20I.mp3
+Noid;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Noid.mp3
+Rah Tah Tah;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Rah%20Tah%20Tah.mp3
+St. Chroma;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/St.%20Chroma.mp3
+Sticky;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Sticky.mp3
+Take Your Mask Off;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Take%20Your%20Mask%20Off.mp3
+Thought I Was Dead;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Thought%20I%20Was%20Dead.mp3
