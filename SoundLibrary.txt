@@ -104,3 +104,4 @@ DNA;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/DNA.mp
 LOYALTY;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/LOYALTY.mp3
 PRIDE;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/PRIDE.mp3
 HUMBLE;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/HUMBLE.mp3
+I Love;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/I%20Love.mp3
