@@ -105,3 +105,4 @@ LOYALTY;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/LO
 PRIDE;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/PRIDE.mp3
 HUMBLE;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/HUMBLE.mp3
 I Love;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/I%20Love.mp3
+No Hands;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/No%20Hands.mp3
