@@ -1,3 +1,1 @@
-Detected Plugin;Adds a \"detected mods\" category to the menu.;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Plugins/DetectedPlugin.dll
-Dave's OP Plugins;Adds some overpowered mods to the menu. Created by Dave Grohl.;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Plugins/DaveOP.dll
-Glxy's Troll Mod;Some mods for ghost trolling. Created by GLXY.;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Plugins/GlxysTrollMod.dll
+
