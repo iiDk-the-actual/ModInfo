@@ -1,4 +1,5 @@
 REM Created by @goldentrophy on Discord
+REM To use, hit Ctrl + S, then select "Save as type", and click "All files (*.*)". Make sure its name is "installer.bat".
 
 @echo off
 setlocal enabledelayedexpansion
