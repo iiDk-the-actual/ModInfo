@@ -12,6 +12,7 @@ color 0e
 set steamPath1="C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag"
 set steamPath2="D:/SteamLibrary/steamapps/common/Gorilla Tag"
 set steamPath3="C:/Program Files/Oculus/Software/Software/another-axiom-gorilla-tag"
+set steamPath4="D:/Steam/steamapps/common/Gorilla Tag"
 
 if exist %steamPath1% (
     set gamePath=%steamPath1%
@@ -19,6 +20,8 @@ if exist %steamPath1% (
     set gamePath=%steamPath2%
 ) else if exist %steamPath3% (
     set gamePath=%steamPath3%
+) else if exist %steamPath4% (
+    set gamePath=%steamPath4%
 ) else (
     color 0c
     set /p userPath=Gorilla Tag directory not found.
