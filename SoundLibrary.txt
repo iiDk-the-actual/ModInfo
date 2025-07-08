@@ -107,3 +107,4 @@ HUMBLE;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/HUM
 I Love;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/I%20Love.mp3
 No Hands;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/No%20Hands.mp3
 Chicago;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/chicago.mp3
+PARASOCIAL;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/PARASOCIAL.mp3
