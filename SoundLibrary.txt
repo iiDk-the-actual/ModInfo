@@ -108,3 +108,4 @@ I Love;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/I%2
 No Hands;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/No%20Hands.mp3
 Chicago;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/chicago.mp3
 PARASOCIAL;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/PARASOCIAL.mp3
+Feel It;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Feel%20It.mp3
