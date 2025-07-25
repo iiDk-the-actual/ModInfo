@@ -109,3 +109,13 @@ No Hands;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/N
 Chicago;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/chicago.mp3
 PARASOCIAL;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/PARASOCIAL.mp3
 Feel It;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Feel%20It.mp3
+Tell Me What It Is;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Tell%20Me%20What%20It%20Is.mp3
+I'll Take Care of You;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/I'll%20Take%20Care%20of%20You.mp3
+Don't You Worry Baby;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Don't%20You%20Worry%20Baby.mp3
+Don't Tap That Glass;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Don't%20Tap%20That%20Glass.mp3
+Ring Ring Ring;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Ring%20Ring%20Ring.mp3
+Stop Playing With Me;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Stop%20Playing%20With%20Me.mp3
+Mommanem;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Mommanem.mp3
+Sucka Free;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Sucka%20Free.mp3
+Sugar On My Tongue;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Sugar%20On%20My%20Tongue.mp3
+Big Poe;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Big%20Poe.mp3
