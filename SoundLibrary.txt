@@ -104,6 +104,7 @@ DNA;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/DNA.mp
 LOYALTY;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/LOYALTY.mp3
 PRIDE;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/PRIDE.mp3
 HUMBLE;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/HUMBLE.mp3
+THAT GUY;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/THAT%20GUY.mp3
 I Love;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/I%20Love.mp3
 No Hands;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/No%20Hands.mp3
 Chicago;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/chicago.mp3
@@ -122,3 +123,35 @@ Wobbly Wiggly;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sou
 Sucka Free;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Sucka%20Free.mp3
 Sugar On My Tongue;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Sugar%20On%20My%20Tongue.mp3
 Big Poe;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Big%20Poe.mp3
+Doom Music;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Theonlythingtheyfearisyou.mp3
+BIRDBRAIN;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/BIRDBRAIN.mp3
+Triple Baka;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Triplebaka.mp3
+Noli Kill;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Noli.mp3
+TF2 Wrench;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/TF2%20Wrench.mp3
+Ode to Joy;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Ode%20to%20Joy.mp3
+Crucified;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Crucified.mp3
+Burp;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/burp.mp3
+Failure;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Failure.mp3
+Victory;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Victory.mp3
+KATAMARI;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/KATAMARI.mp3
+Bonfire;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Bonfire.mp3
+Slide Whistle;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Slide%20Whistle.mp3
+Cooked;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Cooked.mp3
+Minecraft Damage;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Minecraft%20Damage.mp3
+Half Life Crowbar;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Halflifecrowbar.mp3
+Electric Zoo;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Electric%20Zoo.mp3
+Drum Roll;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Drumroll.mp3
+El Gigante De Hierro;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Cartelmusic.mp3
+Big Rock;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Big%20Rock.mp3
+Suspense;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Suspense.mp3
+Modify;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Modify.mp3
+Flashback;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Flashback.mp3
+AURA;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/AURA.mp3
+Between Angels And Insects;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/BAIA.mp3
+Cats on Mars;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Catsonmars.mp3
+From the Start;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Fromthestart.mp3
+HEY EVERY !;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Heyevery.mp3
+Simian Segue;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Simian.mp3
+Fallen Down;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Fallendown.mp3
+Creative Excersize;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Creativeexcersize.mp3
+The Price is Right;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Thepriceisright.mp3
