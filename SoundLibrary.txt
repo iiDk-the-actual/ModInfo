@@ -160,3 +160,4 @@ Whatsapp Whistle;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/S
 Pibble Snore;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Snore.mp3
 Work It;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Workit.mp3
 You're Gonna Love Our Pizza;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Yglop.mp3
+Otis;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Otis.mp3
