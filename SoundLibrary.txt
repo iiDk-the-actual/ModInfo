@@ -155,3 +155,8 @@ Simian Segue;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Soun
 Fallen Down;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Fallendown.mp3
 Creative Excersize;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Creativeexcersize.mp3
 The Price is Right;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Thepriceisright.mp3
+Can't Put Down the Cup;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Cantputdownthecup.mp3
+Whatsapp Whistle;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/whatsapp.mp3
+Pibble Snore;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Snore.mp3
+Work It;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Workit.mp3
+You're Gonna Love Our Pizza;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Yglop.mp3
