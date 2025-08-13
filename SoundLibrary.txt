@@ -161,3 +161,6 @@ Pibble Snore;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sound
 Work It;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Workit.mp3
 You're Gonna Love Our Pizza;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Yglop.mp3
 Otis;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Otis.mp3
+TV Static;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Tvstatic.mp3
+Static;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Static.mp3
+Eminem Extreme Gym Remix;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Eminemextremegymremix.wav
