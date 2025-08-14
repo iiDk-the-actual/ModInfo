@@ -164,3 +164,6 @@ Otis;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Otis.m
 TV Static;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Tvstatic.mp3
 Static;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Static.mp3
 Eminem Extreme Gym Remix;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Eminemextremegymremix.wav
+Fake Location;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Fakelocation.wav
+Ghost Sounds;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Ghostsounds.MP3
+Monoxide Ghost;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Monoxideghost.mp3
