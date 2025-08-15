@@ -167,3 +167,5 @@ Eminem Extreme Gym Remix;https://github.com/iiDk-the-actual/ModInfo/raw/refs/hea
 Fake Location;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Fakelocation.wav
 Ghost Sounds;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Ghostsounds.MP3
 Monoxide Ghost;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/Monoxideghost.mp3
+Monster Mash;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sounds/35930009.ogg
+Rainbow Tylenol;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Kitsune%5E2%20-%20Rainbow%20Tylenol.mp3
