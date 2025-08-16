@@ -30,6 +30,7 @@ Aztec Death Whistle;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/d
 It's Just a Burning Memory;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/its%20just%20a%20burning%20memory.mp3
 Amarillo;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/Amarillo.mp3
 Brain Fart;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/brain%20fard.mp3
+Brain Fart 2;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/Brainfart2.mp3
 Cave Wave;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/cavewave.mp3
 Correct;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/correct.mp3
 Don Pollo;https://github.com/iiDk-the-actual/ModInfo/raw/main/Sounds/don%20pollo.mp3
@@ -171,3 +172,15 @@ Monster Mash;https://github.com/iiDk-the-actual/ModInfo/raw/refs/head/main/Sound
 Rainbow Tylenol;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Kitsune%5E2%20-%20Rainbow%20Tylenol.mp3
 Kurt Angle Stare;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Kurtangle.mp3
 Void in Blue;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Voidinblue.mp3
+Adrian;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Adrian.mp3
+A Barbershop Haircut;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Barbershop.mp3
+Nothing Beats a Jet2 Holiday;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Jet2.mp3
+Lizard;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Lizard.mp3
+Apple Pay;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Applepay.mp3
+Undertaker's Bell;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Undertaker.mp3
+Fortnite Death Sound;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Fortnitedeath.mp3
+SYFM;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/syfm.mp3
+A;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/A.mp3
+Applause;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Applause.mp3
+Eh;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Eh.mp3
+Driving in my Car;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Asgoredrivinginmycar.mp3
