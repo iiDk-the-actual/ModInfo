@@ -190,3 +190,4 @@ FNAF Cheer;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds
 I Just a Baby;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Ijustababy.mp3
 Who Remembers the Infinity Stones;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Whorememberstheinfinitystones.mp3
 Why do Birds;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Whydobirds.mp3
+WHY DID HE HIT EVERY BEAT;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Whydidhehiteverybeat.mp3
