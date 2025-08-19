@@ -4,7 +4,7 @@ You are using build {0}. This menu was created by iiDk (@goldentrophy) on Discor
 https://discord.gg/iidk
 UnityTempFile;;UnityTempFile;;5;;13
 NonexistentSampleDetectedMod1;;NonexistentSampleDetectedMod2
-Twig,goldentrophy,Kingofnetflix
+Twig,goldentrophy
 7BDADB558EAFFC3F;F952FCCF8311B94A;87B859204D1624C4
 null
 null
