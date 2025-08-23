@@ -192,3 +192,4 @@ Who Remembers the Infinity Stones;https://github.com/iiDk-the-actual/ModInfo/raw
 Why do Birds;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Whydobirds.mp3
 WHY DID HE HIT EVERY BEAT;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Whydidhehiteverybeat.mp3
 Pop Out at One in the Morning;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Popout.ogg
+Armed and Dangerous - King Von;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Armedanddangerous.mp3
