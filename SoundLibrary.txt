@@ -194,3 +194,4 @@ WHY DID HE HIT EVERY BEAT;https://github.com/iiDk-the-actual/ModInfo/raw/refs/he
 Pop Out at One in the Morning;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Popout.ogg
 Armed and Dangerous - King Von;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Armedanddangerous.mp3
 Enrique;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/Enrique.mp3
+His Eyes Were Like Mine;https://github.com/iiDk-the-actual/ModInfo/raw/refs/heads/main/Sounds/His%20eyes%20were%20like%20mine.mp3
