@@ -1,12 +1,13 @@
-REM Created by @goldentrophy on Discord
+REM Created by @crimsoncauldron on Discord
 REM To use, hit Ctrl + S, then select "Save as type", and click "All files (*.*)". Make sure its name is "installer.bat".
+REM If on Discord, hit the download button and run it.
 
 @echo off
 setlocal enabledelayedexpansion
 chcp ANSI
 
 cls
-title BepInEx Patcher // [#---------] Getting directory
+title ii's Stupid Menu Installer // [#---------] Getting directory
 color 0e
 
 set steamPath1="C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag"
@@ -31,22 +32,22 @@ if exist %steamPath1% (
 
 color 0e
 cls
-title BepInEx Patcher // [###-------] Downloading BepInEx
-curl -L "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.3/BepInEx_win_x64_5.4.23.3.zip" -o BPNX54232.zip
+title ii's Stupid Menu Installer // [###-------] Downloading BepInEx
+curl -L "https://github.com/BepInEx/BepInEx/releases/download/v5.4.23.4/BepInEx_win_x64_5.4.23.4.zip" -o BPNX54234.zip
 
-powershell -command "Expand-Archive -Path 'BPNX54232.zip' -DestinationPath '%gamePath%' -Force"
+powershell -command "Expand-Archive -Path 'BPNX54234.zip' -DestinationPath '%gamePath%' -Force"
 
 cls
-title BepInEx Patcher // [####------] Creating directories
+title ii's Stupid Menu Installer // [####------] Creating directories
 mkdir %gamePath%/BepInEx/config
 mkdir %gamePath%/BepInEx/plugins
 
 cls
-title BepInEx Patcher // [#####-----] Downloading latest config
+title ii's Stupid Menu Installer // [#####-----] Downloading latest config
 curl https://raw.githubusercontent.com/iiDk-the-actual/ModInfo/refs/heads/main/BepInEx.cfg -o %gamePath%/BepInEx/config/BepInEx.cfg
 
 cls
-title BepInEx Patcher // [#######---] Downloading menu
+title ii's Stupid Menu Installer // [#######---] Downloading menu
 for /f "tokens=*" %%i in ('powershell -Command "(Invoke-RestMethod -Uri 'https://api.github.com/repos/iiDk-the-actual/iis.Stupid.Menu/releases/latest').assets | Where-Object { $_.name -like '*.dll' } | Select-Object -ExpandProperty browser_download_url"') do (
     set pluginUrl=%%i
 )
@@ -62,8 +63,9 @@ color 0e
 curl -L "%pluginUrl%" -o %gamePath%/BepInEx/plugins/"ii's Stupid Menu.dll"
 
 cls
-title BepInEx Patcher // [##########] Finished
+title ii's Stupid Menu Installer // [##########] Finished
 echo Finished patching BepInEx
 
+del "BPNX54234.zip"
+
 pause
-del "BPNX54232.zip"
