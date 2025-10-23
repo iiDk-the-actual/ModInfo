@@ -64,7 +64,7 @@ curl -L "%pluginUrl%" -o %gamePath%/BepInEx/plugins/"ii's Stupid Menu.dll"
 
 cls
 title ii's Stupid Menu Installer // [##########] Finished
-echo Finished patching BepInEx
+echo Congratulations, you now have the menu!
 
 del "BPNX54234.zip"
 
